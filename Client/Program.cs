@@ -43,7 +43,7 @@ namespace Client
                 IList < JToken > resultJson = res["results"].Children().ToList();
                 foreach(JToken item in resultJson)
                 {
-                    Console.WriteLine(GetCharacter(item).ToString());
+                    Console.WriteLine(GetCharacter(item).ToString() + "\t");
                 }
                 json = manager.GetJson(next);
                 res = JObject.Parse(json);
