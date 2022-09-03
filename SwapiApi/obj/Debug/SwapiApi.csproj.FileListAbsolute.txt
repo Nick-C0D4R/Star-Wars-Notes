@@ -1,0 +1,9 @@
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\bin\Debug\SwapiApi.dll
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\bin\Debug\SwapiApi.pdb
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\bin\Debug\Newtonsoft.Json.dll
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\bin\Debug\Newtonsoft.Json.xml
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\obj\Debug\SwapiApi.csproj.AssemblyReference.cache
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\obj\Debug\SwapiApi.csproj.CoreCompileInputs.cache
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\obj\Debug\SwapiApi.csproj.CopyComplete
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\obj\Debug\SwapiApi.dll
+I:\source\repos\C# programs\StarWarsNotes\SwapiApi\obj\Debug\SwapiApi.pdb
