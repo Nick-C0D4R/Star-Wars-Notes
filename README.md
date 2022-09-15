@@ -1,3 +1,3 @@
-#Star Wars Notes
+# Star Wars Notes
 
-##Show basic information about characters of star wars universe. 
+## Show basic information about characters of star wars universe. 
